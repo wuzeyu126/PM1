@@ -3,5 +3,7 @@
 int main() {
 	printf("Hello World");
 	printf("Hello World");
+
+	printf("Third Branch");
 	return 0;
 }
